@@ -1,53 +1,103 @@
-# Hi there, I'm Zohaib Hassan! 👋
+<div align="center">
 
-### 🎓 Computer Systems Engineering Student | 🤖 Agentic AI Ambassador
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Zohaib%20Hassan&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Computer%20Systems%20Engineer%20%7C%20Agentic%20AI%20Ambassador&descAlignY=78&descSize=14&descColor=a0a8d0" alt="header" />
 
-I am a **Computer Systems Engineering** student at **Sukkur IBA University** with a passion for building secure, efficient systems. My work lies at the intersection of **Software Algorithms** and **Hardware Control**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zohaib%20Hassan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-hassan-b3381134a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zoheyb.github.io-6e40c9?style=flat-square&logo=githubpages&logoColor=white)](https://zoheyb.github.io/Zohaib-Hassan-/)
+[![Email](https://img.shields.io/badge/Email-zohaibhassan.becsef25-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zohaibhassan.becsef25@iba-suk.edu.pk)
+[![Upwork](https://img.shields.io/badge/Freelance-Upwork%20%7C%20Fiverr-14a800?style=flat-square&logo=upwork&logoColor=white)](#)
 
-Currently, I am serving as an **Agentic AI Ambassador** at **MindHYVE.ai**, where I explore the future of autonomous AI agents.
-
----
-
-### 🚀 **About Me**
-
-* 🌱 **I’m currently learning:** Advanced C++, Embedded Systems, and Cybersecurity standards.
-* 💡 **I’m interested in:** Tech Innovation, Linear Algebra, and Building Secure Systems.
-* 💼 **Current Role:** Agentic AI Ambassador at MindHYVE.ai.
-* 📍 **Location:** Sindh, Pakistan.
+</div>
 
 ---
 
-### 🛠️ **Technical Arsenal**
+## About Me
 
-I have worked on **multiple projects** that demonstrate strong proficiency in **Algorithmic Problem Solving** and system architecture.
+I'm a **Computer Systems Engineering** student at **Sukkur IBA University**, Pakistan, building at the intersection of software and hardware. My focus areas are **cybersecurity**, **embedded systems**, and **full-stack development** — and I'm equally comfortable writing a Django REST backend, flashing firmware to an ESP32, or digging through a CTF challenge at midnight.
 
-| **Domain** | **Technologies & Skills** |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **Hardware & IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) **Embedded Systems** |
-| **Core Concepts** | **Data Structures**, **Algorithms**, **Linear Algebra** |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+Currently serving as an **Agentic AI Ambassador** at **MindHYVE.ai**, exploring the frontier of autonomous AI agents. Also participating in **AI Seekho 2026** powered by Google Cloud.
 
----
-
-### 🔭 **Projects & Problem Solving**
-
-My repositories focus on optimization and logic. I don't just write code; I engineer solutions using **Algorithmic Problem Solving**.
-
-* **Hardware Integration:** Projects utilizing **Arduino** for real-world device control and sensor interfacing.
-* **System Logic:** Implementations of complex **Data Structures** and searching/sorting algorithms in C++.
-* **Mathematics:** Computational tools based on **Linear Algebra** and matrix operations.
+```text
+🔐 Cybersecurity Enthusiast     🤖 Embedded Systems Builder
+🌐 Full-Stack Developer          ☁️  Google Cloud AI Track (2026)
+📍 Sindh, Pakistan               🎓 SIBAU · CSE · 2nd Year
+```
 
 ---
 
-### 📈 **GitHub Stats**
+## Tech Stack
 
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoheyb&show_icons=true&theme=radical)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Web & Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Automation & Scraping**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+**Embedded & IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+**Tools & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-### 📫 **Connect with Me**
+## Featured Projects
 
-* 💼 **LinkedIn:** [Zohaib Hassan](https://www.linkedin.com/in/zohaib-hassan-b3381134a)
-* 🌐 **Portfolio:** [zoheyb.github.io](https://zoheyb.github.io/Zohaib-Hassan-/)
-* 📧 **Email:** zohaibhassan.becsef25@iba-suk.edu.pk
+### 🛒 ShopVerse
+Full-stack e-commerce platform built with **Django REST Framework** + **Vanilla JS**. Includes product management, cart logic, and a clean REST API architecture.
+
+### 🕵️ Cyber Detective
+An interactive **cybersecurity game** designed to teach real-world security concepts through puzzle-based challenges. Reflects my passion for making security education engaging.
+
+> More projects in the repositories below ↓
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoheyb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoheyb&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Currently
+
+- 🔭 Building projects in cybersecurity and embedded systems
+- 🌱 Deepening knowledge in **Linux internals**, **network security**, and **IoT protocols**
+- 💼 Freelancing on Upwork, Fiverr & PeoplePerHour — open to interesting gigs
+- 🤝 Active in the **SIBAU Cybersecurity Community**
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer" />
+
+*"The quieter you become, the more you are able to hear."* — Kali Linux
+
+</div>
